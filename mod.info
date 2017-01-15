@@ -1,0 +1,8 @@
+name=Mod Presets
+poster=empty.png
+description=Save your modselections for easy access!
+id=bcModPreset
+
+modversion=0.1.0
+pzversion=36.04
+versionurl=https://raw.githubusercontent.com/blind-coder/pz-bcModPreset/master/mod.info
